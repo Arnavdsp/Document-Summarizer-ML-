@@ -5,7 +5,7 @@ To create a Document Summarizer using pipeline which can handle document of any 
 
 # Document Summarizer
 
-The doc summarizer can take input of pdf, text, img and convert it into a summary. It has also feature of Question Answering and translation of text.
+The doc summarizer can take input of pdf, text, img and convert it into a summary. It has also a feature of Question Answering and translation of text.
 
 ## Installation
 To get started with the project, clone the repository and install the required dependencies:
