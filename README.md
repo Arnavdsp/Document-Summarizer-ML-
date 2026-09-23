@@ -1,10 +1,10 @@
-# 📚 Multi-Format Document Summarizer & Q&A
+# Multi-Format Document Summarizer & Q&A
 
 An end-to-end multi-page Streamlit application that extracts text from multiple document formats (**PDF**, **TXT**, and **Images/Scans via OCR**), generates concise summaries using state-of-the-art transformer models, translates documents into Hindi, and provides question answering over document context.
 
 ---
 
-## 🌟 Features
+## Features
 
 - **Multi-Format Ingestion**: Upload PDFs (`pdfplumber`), plain text files, or image scans (`pytesseract` OCR).
 - **Intelligent Summarization**:
@@ -17,7 +17,7 @@ An end-to-end multi-page Streamlit application that extracts text from multiple 
 
 ---
 
-## 🚀 Deploying to Streamlit Community Cloud
+##  Deploying to Streamlit Community Cloud
 
 1. Fork or push this repository to your GitHub account (`Arnavdsp/Document-Summarizer-ML-`).
 2. Go to [share.streamlit.io](https://share.streamlit.io) and log in with GitHub.
@@ -31,7 +31,7 @@ An end-to-end multi-page Streamlit application that extracts text from multiple 
 
 ---
 
-## 💻 Local Setup
+##  Local Setup
 
 ```bash
 # 1. Clone the repository
@@ -51,7 +51,7 @@ streamlit run App.py
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 - Jeel Savsani
 - Prakrut Moon
@@ -59,6 +59,6 @@ streamlit run App.py
 - Yash Dodiya
 - Arnav Deshpande
 
-## 🔗 Demo & Resources
+##  Demo & Resources
 - **Demo Video**: [Google Drive Link](https://drive.google.com/file/d/1HtBseEKWRSSkWoOF55zxgdNTP_911rYC/view?usp=sharing)
 - **Project Report**: [Google Docs Link](https://docs.google.com/document/d/1wgHxrRYpgwQ7mu4dB4HXAwyy4bE5EsPIEki4E_haft0/edit?usp=sharing)
